@@ -18,5 +18,5 @@ Now that my newly created markdown document reflected on my GitHub repository, I
 # 1.2 How I shared my document with other classmates
 The two classmates with whom I shared my document today are Arathi M Nair and Siddarth Tumre. I have asked them their git usernames and gave them the access to my current repository by Settings->Manage Access-> and adding theeir usernames.
 
-# What have we done together?
+
 
